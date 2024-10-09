@@ -1,1 +1,3 @@
 hello newfeature
+welcome to the automation
+
